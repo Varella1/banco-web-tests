@@ -18,6 +18,5 @@ describe('Transferencias', () => {
         //Assert
         cy.verificarMensagemNoToast('Autenticação necessária para transferências acima de R$5.000,00.')
     })
-        
-        
+             
 })
